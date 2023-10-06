@@ -48,6 +48,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or need assistance, feel free to reach out to us at [your-email@example.com](mailto:gudisagebi1@gmail.com).
+If you have any questions or need assistance, feel free to reach out to us at [gudisagebi1@gmail.com].
 
 Happy job hunting! 🌟
